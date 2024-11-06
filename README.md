@@ -1,6 +1,3 @@
-Here’s a `README.md` file for your project:
-
-```markdown
 # User Info with Robot Avatars
 
 This project displays a list of users fetched from an external API with unique robot avatars for each user. The data includes each user's name, username, and email, accompanied by a fun robot avatar based on the user ID. The page layout is responsive and visually clean, making it easy to view user information.
@@ -101,4 +98,3 @@ This project is open-source and available under the MIT License.
 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for providing free, sample user data.
 - [RoboHash](https://robohash.org/) for generating unique robot avatars.
-# BCHPersonsProject

@@ -40,7 +40,7 @@ To get a local copy up and running, follow these steps.
 2. **Navigate to the project folder:**
 
    ```bash
-   cd your-repo-name
+   cd BCHPersonsProject
    ```
 
 3. **Open the `index.html` file in a web browser to view the project locally:**
